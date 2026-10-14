@@ -1,0 +1,4 @@
+2026-10-14 10:51 ai_p1.csv model=llama-3.1-8b-instant
+2026-10-14 10:51 ai_p1.csv model=openai/gpt-oss-120b
+2026-10-14 11:00 ai_p2.csv model=openai/gpt-oss-120b
+2026-10-14 11:03 ai_p1_json.csv model=openai/gpt-oss-120b

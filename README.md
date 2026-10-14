@@ -6,3 +6,5 @@ Sci/Tech - - If the descriptions have words with semantic meaning related to tec
 descriptions should not involve any organization name
 New rules while labelling
 Tie break - sometimes organization name also involved in business so consider priority words 
+World - If the descriptions have words with semantic meaning related to life and no keywords like economic, wealth
+money or games involved , then it will be labelled as world

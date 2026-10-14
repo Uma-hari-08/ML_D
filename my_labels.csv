@@ -1,4 +1,4 @@
-Dataset,S.no,Description,Label,notes,confidence - 0.9/0.6/0.3
+set,id,text,my_label,note,confidence
 main,1,Gerrard only a 50-50 chance VIENNA - England midfielder Steven Gerrard is a major doubt to face Austria in today #39;s opening 2006 World Cup qualifier. Gerrard has failed to shake off a groin injury suffered in training on Thursday and,Sports,Based on keyowrd - worldcup,0.9
 main,2,"A Better Solution for Israel The hysterical tone of Daniel Seidemann #39;s plea to the next US administration to save Israel from itself serves no useful purpose op-ed, Aug. 26.",World,Based on keyowrd - people life,0.9
 main,3,"Olympic Daily Preview - Thursday, August 19 Athens, Greece (Sports Network) - Wednesday night it was Paul Hamm #39;s turn to shine for the United States, as he won the gold medal in the men #39;s all-around competition. Will Thursday produce a sweep for the US at the Olympics? ...",Sports,Based on keyowrd - Olympic,0.9
